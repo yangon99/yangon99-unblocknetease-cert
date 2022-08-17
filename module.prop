@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=yangon99-unblocknetease-cert
+name=UnblockNetease CA Mounter
+version=20220817-2
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
+author=Yangon99
+description=Copy Yangon99's UnblockNetease Cert(5bd0026a.0)
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
